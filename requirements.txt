@@ -1,5 +1,5 @@
-LinearRegression 
-Streamlit
-Pandas
-Numpy 
-sklearn.linear
+
+streamlit
+pandas
+numpy
+scikit-learn
