@@ -1,8 +1,9 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import LinearRegression
-from sklearn.linear_model 
+import sklearn.linear_model as lm
+model = lm.LinearRegression()
+
 
 
 # Khởi tạo session state
