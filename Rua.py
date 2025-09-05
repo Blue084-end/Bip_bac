@@ -1,7 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model 
+import LinearRegression
 
 # Khởi tạo session state
 if 'model_trained' not in st.session_state:
